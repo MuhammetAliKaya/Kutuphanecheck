@@ -16,7 +16,7 @@ include "config.php";
     <!-- Stylesheet CSS -->
     <link rel="stylesheet" href="./css/style.css">
 
-    <title>My Library | Anasayfa</title>
+    <title>Kütüphane | Anasayfa</title>
 </head>
 <body>
 
