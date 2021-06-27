@@ -1,9 +1,9 @@
 <?php
 session_start();
-$vt_sunucu="localhost";
-$vt_kullanici="264915";
-$vt_sifre="123456";
-$vt_adi="264915";
+$vt_sunucu="";
+$vt_kullanici="";
+$vt_sifre="";
+$vt_adi="";
 $baglan=mysqli_connect($vt_sunucu,$vt_kullanici,$vt_sifre,$vt_adi);
 
 
