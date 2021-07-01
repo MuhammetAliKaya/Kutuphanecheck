@@ -1,2 +1,2 @@
 # Kutuphanecheck
-English
+English-Turkish
